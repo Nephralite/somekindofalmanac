@@ -1090,5 +1090,19 @@
     "fabled",
     false,
     "There can't be more than 1 extra evil player."
-  ]
+  ],
+    "princess": [
+        "princess",
+        "Princess",
+        "townsfolk",
+        false,
+        "On your 1st day, if you nominated & executed a player, the Demon doesn’t kill tonight."
+    ],
+    "wraith": [
+        "wraith",
+        "Wraith",
+        "minion",
+        false,
+        "You may choose to open your eyes at night. You wake when other evil players do."
+    ]
 }
